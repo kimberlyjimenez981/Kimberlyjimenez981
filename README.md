@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kimberly Jimenez — Data Scientist & Machine Learning Enthusiast
+# 👋 Hi, I'm Kimberly Jimenez  Data Scientist & Machine Learning Enthusiast
 
 Welcome to my GitHub! I'm a Data Scientist with a passion for turning data into actionable insights and building machine learning models that make an impact. I enjoy exploring datasets, visualizing trends, and developing predictive algorithms.
 
