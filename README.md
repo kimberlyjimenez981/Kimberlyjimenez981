@@ -40,9 +40,7 @@ Welcome to my GitHub! I'm a Data Scientist with a passion for turning data into 
 
 ---
 
-## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kimberly-j-a68590382/
 
 
 Thanks for visiting! Feel free to check out my projects below 👇
